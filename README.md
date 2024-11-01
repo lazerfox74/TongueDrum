@@ -1,4 +1,4 @@
-# minDrum
+# Polyphonic Tongue Drum Synthesiser With Capacitive Touch Input
 
 [Demo 1](https://youtu.be/kyRpFvHToyo)
 
@@ -7,9 +7,12 @@
 ## Author
 
 <!-- Insert Your Name Here -->
-test
+Joshua Shuter
 
 ## Description
 
 <!-- Describe your example here -->
-dommgd
+
+A capacitive touch playing surface comprised of 6 copper washers with series resistors running into the rasberry pi pico for the touch interface with 6 leds for visual feedback. Touch data sent to a Daisy Seed Microcontroller via DMA SPI communication where audio generation algorithms are performed. 6 potentiometers as synthesis and tuning controlls housed a 3d printed enclosure.
+
+jtouch library used for the capacitive touch sensing developed by james brown.
