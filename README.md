@@ -1,5 +1,7 @@
 # minDrum
 
+[Watch the video](https://www.youtube.com/watch?v=example)
+
 ## Author
 
 <!-- Insert Your Name Here -->
