@@ -1,6 +1,8 @@
 # minDrum
 
-[Watch the video](https://www.youtube.com/watch?v=example)
+[Demo 1](https://youtu.be/kyRpFvHToyo)
+
+[Demo 2](https://youtu.be/vjj9j2_N3Hk)
 
 ## Author
 
