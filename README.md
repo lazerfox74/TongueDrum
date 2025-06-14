@@ -3,9 +3,9 @@
 
 ![Image](capdrum.jpg)
 
-[Demo 1](https://youtu.be/kyRpFvHToyo)
+[Demo 1](https://youtube.com/shorts/vAojO6pj2rI)
 
-[Demo 2](https://youtube.com/shorts/vAojO6pj2rI)
+[Demo 2](https://youtu.be/kyRpFvHToyo)
 
 ## Description
 
